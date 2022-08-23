@@ -2,8 +2,9 @@
 
 <br />
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="350" />
-大家好，我是小白，欢迎来到我的GitHub
-
+ <h1 align="center">
+	<a href="https://github.com/MrBaiLiJie"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=console.log(hello%2Cworld);%E5%A4%A7%E5%AE%B6%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E5%B0%8F%E7%99%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84GitHub" alt="Typing SVG" /></a>
+</h1>
 
 **languages and tools:**  
 
